@@ -1,6 +1,6 @@
 # MidTerm_Project
 
-## Modeling project
+## Modeling project - House pricing
 
 ## Objective: 
 
@@ -15,9 +15,9 @@ The task is to build a model that will predict the price of a house based on fea
 
 ## Project timeline (Day 1-5)
 
- + Day 1: Exploratory data & cleaning
- + Day 2:
- + Day 3:
- + Day 4:
- + Day 5:
+ + Day 1: Cleaning & exploratory data
+ + Day 2: Process (transform and remove outliers) & Model
+ + Day 3: Validation
+ + Day 4: Presentation prep
+ + Day 5: Presentation
 
