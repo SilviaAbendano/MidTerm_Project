@@ -1,5 +1,6 @@
 # MidTerm_Project
 
-Option: Modeling project
+###Option chosen: modeling project
+###Dataset: housing price (given data set)
 
 Students: Silvia Delgado
