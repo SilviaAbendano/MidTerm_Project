@@ -17,7 +17,7 @@ The task is to build a model that will predict the price of a house based on fea
 
  + Day 1: Cleaning & exploratory data
  + Day 2: Process (transform and remove outliers) & Model
- + Day 3: Validation
+ + Day 3: Validation & Model improvement
  + Day 4: Presentation prep
  + Day 5: Presentation.
 
