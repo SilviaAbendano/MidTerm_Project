@@ -6,7 +6,7 @@
 
 The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - $650K and above. The questions have been provided later in the document for which you can use tableau.
 
-## Group members: Silvia Delgado and Luca H.
+## Group members: Silvia Delgado and Luca Hein.
 
 
 ## Description of dataset: housing price (given data set)
